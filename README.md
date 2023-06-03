@@ -120,7 +120,7 @@ public class MainActivity extends AppCompatActivity {
 ## Output:
 
 
-![output]()
+![output](https://github.com/Hemapriya-2004/Ex_No-9_Graphical-Primitives/blob/main/j101.png)
 
 ## Result:
 Thus a Simple Android Application to create and design an android application that draws basic graphical primitives on the screen using Android Studio was developed and executed successfully.
